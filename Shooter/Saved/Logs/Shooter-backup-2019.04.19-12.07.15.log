@@ -1,0 +1,1208 @@
+﻿Log file open, 03/09/19 15:33:50
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Shooter
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.525663
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.588s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.006s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.03.09-20.33.52:163][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.09-20.33.52:163][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.03.09-20.33.52:229][  0]LogHAL: Display: Platform has ~ 16 GB [16722046976 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.03.09-20.33.52:229][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.03.09-20.33.52:229][  0]LogInit: Going up to parent DeviceProfile []
+[2019.03.09-20.33.52:231][  0]LogInit: Computer: DESKTOP-5DSKPQ2
+[2019.03.09-20.33.52:231][  0]LogInit: User: smithn10
+[2019.03.09-20.33.52:231][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.03.09-20.33.52:231][  0]LogInit: High frequency timer resolution =2.531254 MHz
+[2019.03.09-20.33.52:232][  0]LogMemory: Memory total: Physical=15.6GB (16GB approx)
+[2019.03.09-20.33.52:232][  0]LogMemory: Platform Memory Stats for Windows
+[2019.03.09-20.33.52:232][  0]LogMemory: Process Physical Memory: 101.05 MB used, 101.05 MB peak
+[2019.03.09-20.33.52:232][  0]LogMemory: Process Virtual Memory: 93.54 MB used, 93.54 MB peak
+[2019.03.09-20.33.52:232][  0]LogMemory: Physical Memory: 6517.04 MB used,  9430.34 MB free, 15947.39 MB total
+[2019.03.09-20.33.52:233][  0]LogMemory: Virtual Memory: 4642.92 MB used,  9430.34 MB free, 134217728.00 MB total
+[2019.03.09-20.33.52:319][  0]LogInit: Using OS detected language (en-US).
+[2019.03.09-20.33.52:319][  0]LogInit: Using OS detected locale (en-US).
+[2019.03.09-20.33.52:322][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.03.09-20.33.53:661][  0]LogStreaming: Display: Took  1.343s to InitEngineTextLocalization.
+[2019.03.09-20.33.53:661][  0]LogInit: Setting process to per monitor DPI aware
+[2019.03.09-20.33.53:779][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.03.09-20.33.53:779][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.03.09-20.33.54:690][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.09-20.33.54:690][  0]LogD3D11RHI: D3D11 adapters:
+[2019.03.09-20.33.54:860][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
+[2019.03.09-20.33.54:860][  0]LogD3D11RHI:       2010/0/7973 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.03.09-20.33.54:889][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2019.03.09-20.33.54:889][  0]LogD3D11RHI:       128/0/7973 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.03.09-20.33.54:897][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.03.09-20.33.54:898][  0]LogD3D11RHI:       0/0/7973 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.03.09-20.33.54:898][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.03.09-20.33.55:054][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.03.09-20.33.55:054][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
+[2019.03.09-20.33.55:054][  0]LogWindows: EnumDisplayDevices:
+[2019.03.09-20.33.55:055][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2019.03.09-20.33.55:056][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.03.09-20.33.55:057][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.03.09-20.33.55:057][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.03.09-20.33.55:057][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
+[2019.03.09-20.33.55:057][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.03.09-20.33.55:057][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.03.09-20.33.55:058][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
+[2019.03.09-20.33.55:190][  0]LogD3D11RHI: Async texture creation enabled
+[2019.03.09-20.33.55:227][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.03.09-20.33.55:232][  0]LogShaderCompilers: Guid format shader working directory is -49 characters bigger than the processId version (../../../../../../Users/smithn10/Desktop/My Stuff/Unreal Projects/FPS 2-21-19/FPS-2-21-19/Shooter/Intermediate/Shaders/WorkingDirectory/31232/).
+[2019.03.09-20.33.55:232][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/smithn10/AppData/Local/Temp/UnrealShaderWorkingDir/B00DB74340C6CD1B550D28BCAEDEF088/'.
+[2019.03.09-20.33.56:457][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.03.09-20.33.56:515][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.03.09-20.33.56:568][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.03.09-20.33.56:618][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.03.09-20.33.56:666][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.03.09-20.33.56:715][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.03.09-20.33.56:765][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.03.09-20.33.56:815][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.03.09-20.33.56:839][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.03.09-20.33.57:162][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.09-20.33.57:162][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.09-20.33.57:162][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.09-20.33.57:162][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.09-20.33.57:162][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.09-20.33.57:162][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.09-20.33.57:163][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.09-20.33.57:163][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.09-20.33.57:163][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.09-20.33.57:163][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.09-20.33.57:163][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.09-20.33.57:163][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.09-20.33.57:163][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.09-20.33.57:163][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.09-20.33.57:163][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.09-20.33.57:163][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.09-20.33.57:163][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.09-20.33.57:163][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.09-20.33.57:169][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.03.09-20.33.57:309][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.09-20.33.57:309][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.09-20.33.57:395][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.09-20.33.57:396][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.09-20.33.57:443][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.03.09-20.33.57:488][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.03.09-20.33.57:533][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.03.09-20.33.57:581][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.03.09-20.33.57:616][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.09-20.33.57:616][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.03.09-20.33.57:868][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.03.09-20.33.57:868][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.03.09-20.33.57:868][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.03.09-20.34.00:704][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.03.09-20.34.00:877][  0]LogDerivedDataCache: Loaded boot cache 0.17s 71MB C:/Users/smithn10/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.03.09-20.34.00:879][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/smithn10/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.03.09-20.34.00:879][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/smithn10/Desktop/My Stuff/Unreal Projects/FPS 2-21-19/FPS-2-21-19/Shooter/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.03.09-20.34.00:879][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.03.09-20.34.00:880][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/smithn10/Desktop/My Stuff/Unreal Projects/FPS 2-21-19/FPS-2-21-19/Shooter/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.09-20.34.00:880][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.03.09-20.34.00:935][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.03.09-20.34.00:950][  0]LogDerivedDataCache: Using Local data cache path C:/Users/smithn10/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.03.09-20.34.00:950][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.03.09-20.34.00:950][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.03.09-20.34.01:013][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.03.09-20.34.01:018][  0]LogSlate: Using FreeType 2.6.0
+[2019.03.09-20.34.01:020][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.09-20.34.01:230][  0]LogAssetRegistry: FAssetRegistry took 0.0394 seconds to start up
+[2019.03.09-20.34.02:529][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.09-20.34.03:049][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.03.09-20.34.03:064][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.03.09-20.34.03:064][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.03.09-20.34.03:064][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.03.09-20.34.03:064][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.03.09-20.34.03:113][  0]LogNetVersion: Shooter 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2385135324)
+[2019.03.09-20.34.05:344][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.523194 seconds
+[2019.03.09-20.34.05:362][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.03.09-20.34.05:362][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2019.03.09-20.34.05:362][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.03.09-20.34.08:493][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.03.09-20.34.08:512][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.03.09-20.34.08:904][  0]SourceControl: Source control is disabled
+[2019.03.09-20.34.08:904][  0]SourceControl: Source control is disabled
+[2019.03.09-20.34.08:910][  0]SourceControl: Source control is disabled
+[2019.03.09-20.34.08:915][  0]SourceControl: Source control is disabled
+[2019.03.09-20.34.09:278][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.03.09-20.34.09:493][  0]LogOcInput: OculusInput pre-init called
+[2019.03.09-20.34.09:675][  0]LogEngine: Initializing Engine...
+[2019.03.09-20.34.09:678][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.09-20.34.09:682][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.09-20.34.09:682][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.09-20.34.09:682][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.09-20.34.09:682][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.09-20.34.10:401][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.03.09-20.34.10:455][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.03.09-20.34.10:509][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.09-20.34.10:943][  0]LogInit: FAudioDevice initialized.
+[2019.03.09-20.34.10:944][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.03.09-20.34.11:071][  0]LogDerivedDataCache: Saved boot cache 0.13s 71MB C:/Users/smithn10/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.03.09-20.34.11:108][  0]LogInit: Texture streaming: Enabled
+[2019.03.09-20.34.11:180][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.03.09-20.34.11:252][  0]LogInit: Transaction tracking system initialized
+[2019.03.09-20.34.11:353][  0]BlueprintLog: New page: Editor Load
+[2019.03.09-20.34.11:652][  0]LocalizationService: Localization service is disabled
+[2019.03.09-20.34.12:635][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.03.09-20.34.12:636][  0]LogCook: Display: Mobile HDR setting 1
+[2019.03.09-20.34.12:636][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.03.09-20.34.12:636][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.09-20.34.12:636][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.09-20.34.12:636][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.09-20.34.12:636][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.09-20.34.13:180][  0]LogFileCache: Scanning file cache for directory 'C:/Users/smithn10/Desktop/My Stuff/Unreal Projects/FPS 2-21-19/FPS-2-21-19/Shooter/Content/' took 0.06s
+[2019.03.09-20.34.13:180][  0]SourceControl: Source control is disabled
+[2019.03.09-20.34.13:183][  0]LightingResults: New page: Lighting Build
+[2019.03.09-20.34.13:204][  0]MapCheck: New page: Map Check
+[2019.03.09-20.34.13:204][  0]LightingResults: New page: Lighting Build
+[2019.03.09-20.34.16:146][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.03.09-20.34.16:187][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.09-20.34.16:292][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.09-20.34.16:725][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 431.934ms to complete.
+[2019.03.09-20.34.16:725][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 3.545
+[2019.03.09-20.34.17:000][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.09-20.34.17:035][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.09-20.34.17:069][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.09-20.34.17:103][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.09-20.34.17:134][  0]LogCollectionManager: Loaded 0 collections in 0.009737 seconds
+[2019.03.09-20.34.17:201][  0]LogFileCache: Scanning file cache for directory 'C:/Users/smithn10/Desktop/My Stuff/Unreal Projects/FPS 2-21-19/FPS-2-21-19/Shooter/Saved/Collections/' took 0.01s
+[2019.03.09-20.34.17:201][  0]LogFileCache: Scanning file cache for directory 'C:/Users/smithn10/Desktop/My Stuff/Unreal Projects/FPS 2-21-19/FPS-2-21-19/Shooter/Content/Developers/smithn10/Collections/' took 0.01s
+[2019.03.09-20.34.17:202][  0]LogFileCache: Scanning file cache for directory 'C:/Users/smithn10/Desktop/My Stuff/Unreal Projects/FPS 2-21-19/FPS-2-21-19/Shooter/Content/Collections/' took 0.01s
+[2019.03.09-20.34.17:202][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.03.09-20.34.17:246][  0]LogContentBrowser: Native class hierarchy populated in 0.0435 seconds. Added 2572 classes and 603 folders.
+[2019.03.09-20.34.17:274][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2019.03.09-20.34.17:528][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2019.03.09-20.34.17:549][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0012 seconds. Added 1 classes and 2 folders.
+[2019.03.09-20.34.17:614][  0]LogSlate: Took 0.000809 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.09-20.34.17:623][  0]LogSlate: Took 0.000632 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.03.09-20.34.17:646][  0]LogSlate: Took 0.000818 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.03.09-20.34.18:027][  0]LogRenderer: Reallocating scene render targets to support 976x452 Format 10 NumSamples 1 (Frame:1).
+[2019.03.09-20.34.18:444][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0016 seconds. Added 0 classes and 0 folders.
+[2019.03.09-20.34.18:444][  0]LogLoad: (Engine Initialization) Total time: 33.01 seconds
+[2019.03.09-20.34.18:444][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.03.09-20.34.18:516][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.03.09-20.34.19:133][  5]LogSlate: Took 0.000912 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.09-20.34.19:306][  7]LogAssetRegistry: Asset discovery search completed in 18.0998 seconds
+[2019.03.09-20.34.19:311][  7]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.03.09-20.34.19:311][  7]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000218 seconds (updated 0 objects)
+[2019.03.09-20.34.19:941][  9]LogSlate: Took 0.000640 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.09-20.46.25:314][497]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.09-20.46.25:538][506]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/MyFolder/Animations/Swat_WalkRunBS.Swat_WalkRunBS
+[2019.03.09-20.46.25:850][506]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2019.03.09-20.46.26:705][506]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.03.09-20.46.26:719][506]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0008 seconds. Added 1 classes and 0 folders.
+[2019.03.09-20.46.26:979][506]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.03.09-20.46.28:603][506]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0007 seconds. Added 1 classes and 0 folders.
+[2019.03.09-20.46.28:676][506]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.03.09-20.48.21:643][160]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.091
+[2019.03.09-20.48.21:649][160]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyFolder/Animations/Swat_WalkRunBS] ([1] browsable assets)...
+[2019.03.09-20.48.21:701][160]OBJ SavePackage:     Rendered thumbnail for [BlendSpace /Game/MyFolder/Animations/Swat_WalkRunBS.Swat_WalkRunBS]
+[2019.03.09-20.48.21:701][160]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyFolder/Animations/Swat_WalkRunBS]
+[2019.03.09-20.48.21:812][160]LogSavePackage: Moving '../../../../../../Users/smithn10/Desktop/My Stuff/Unreal Projects/FPS 2-21-19/FPS-2-21-19/Shooter/Saved/Swat_WalkRunBS_Auto1391631C94AA6F44E0D3842AF3CBDF0EB.tmp' to '../../../../../../Users/smithn10/Desktop/My Stuff/Unreal Projects/FPS 2-21-19/FPS-2-21-19/Shooter/Saved/Autosaves/Game/MyFolder/Animations/Swat_WalkRunBS_Auto1.uasset'
+[2019.03.09-20.48.21:822][160]LogFileHelpers: Auto-saving content packages took 0.177
+[2019.03.09-20.54.29:210][265]LogSavePackage: Moving '../../../../../../Users/smithn10/Desktop/My Stuff/Unreal Projects/FPS 2-21-19/FPS-2-21-19/Shooter/Saved/Swat_WalkRunBSD946BC894AA4252E00D64F8E0F56FA2B.tmp' to '../../../../../../Users/smithn10/Desktop/My Stuff/Unreal Projects/FPS 2-21-19/FPS-2-21-19/Shooter/Content/MyFolder/Animations/Swat_WalkRunBS.uasset'
+[2019.03.09-20.55.49:092][894]LogSlate: Window 'Swat_WalkRunBS' being destroyed
+[2019.03.09-20.55.58:769][430]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/MyFolder/Animations/Swat_WalkRunBS.Swat_WalkRunBS
+[2019.03.09-20.55.58:800][430]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.03.09-20.55.58:959][430]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.03.09-20.56.00:338][430]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.03.09-20.57.08:220][693]LogSavePackage: Moving '../../../../../../Users/smithn10/Desktop/My Stuff/Unreal Projects/FPS 2-21-19/FPS-2-21-19/Shooter/Saved/Swat_WalkRunBS0EBDF1E5437E47AD611AD693DF21F738.tmp' to '../../../../../../Users/smithn10/Desktop/My Stuff/Unreal Projects/FPS 2-21-19/FPS-2-21-19/Shooter/Content/MyFolder/Animations/Swat_WalkRunBS.uasset'
+[2019.03.09-20.57.09:615][727]LogSlate: Window 'Swat_WalkRunBS' being destroyed
+[2019.03.09-20.57.10:801][760]LogBlueprint: Warning: [Compiler Swat_AnimBP] Idle to Walk/Run  will never be taken, please connect something to  Can Enter Transition
+[2019.03.09-20.57.10:802][760]LogBlueprint: Warning: [Compiler Swat_AnimBP] Walk/Run to Idle  will never be taken, please connect something to  Can Enter Transition
+[2019.03.09-20.57.10:805][760]LogBlueprint: Warning: [Compiler Swat_AnimBP] [1405.37] Compile of Swat_AnimBP successful, but with 2 Warning(s) [in 11 ms] (/Game/MyFolder/Animations/Swat_AnimBP.Swat_AnimBP)
+[2019.03.09-20.57.10:863][760]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/MyFolder/Animations/Swat_AnimBP.Swat_AnimBP
+[2019.03.09-20.57.10:920][760]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.03.09-20.57.12:644][760]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0019 seconds. Added 116 classes and 0 folders.
+[2019.03.09-20.57.15:161][760]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.03.09-20.57.16:108][760]LogSlate: Took 0.000730 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.03.09-20.57.16:405][760]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.03.09-20.57.37:715][507]LogSlate: Took 0.000655 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.03.09-21.02.37:876][127]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.129
+[2019.03.09-21.02.37:882][127]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyFolder/Animations/Swat_AnimBP] ([1] browsable assets)...
+[2019.03.09-21.02.37:921][127]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/MyFolder/Animations/Swat_AnimBP.Swat_AnimBP]
+[2019.03.09-21.02.37:921][127]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyFolder/Animations/Swat_AnimBP]
+[2019.03.09-21.02.38:113][127]LogSavePackage: Moving '../../../../../../Users/smithn10/Desktop/My Stuff/Unreal Projects/FPS 2-21-19/FPS-2-21-19/Shooter/Saved/Swat_AnimBP_Auto25E62BE2E4297B687B46AA8A91CF9F21F.tmp' to '../../../../../../Users/smithn10/Desktop/My Stuff/Unreal Projects/FPS 2-21-19/FPS-2-21-19/Shooter/Saved/Autosaves/Game/MyFolder/Animations/Swat_AnimBP_Auto2.uasset'
+[2019.03.09-21.02.38:123][127]LogFileHelpers: Auto-saving content packages took 0.243
+[2019.03.09-21.03.49:424][478]BlueprintLog: New page: Compile Swat_AnimBP
+[2019.03.09-21.03.49:473][478]LogBlueprint: Warning: [Compiler Swat_AnimBP] Idle to Walk/Run  will never be taken, please connect something to  Can Enter Transition
+[2019.03.09-21.03.49:473][478]LogBlueprint: Warning: [Compiler Swat_AnimBP] Walk/Run to Idle  will never be taken, please connect something to  Can Enter Transition
+[2019.03.09-21.03.49:959][478]LogBlueprint: Warning: [Compiler Swat_AnimBP] [1804.52] Compile of Swat_AnimBP successful, but with 2 Warning(s) [in 535 ms] (/Game/MyFolder/Animations/Swat_AnimBP.Swat_AnimBP)
+[2019.03.09-21.03.50:892][497]LogSavePackage: Moving '../../../../../../Users/smithn10/Desktop/My Stuff/Unreal Projects/FPS 2-21-19/FPS-2-21-19/Shooter/Saved/Swat_AnimBP2769B4094F2FE9B70AE8259D82F15EFA.tmp' to '../../../../../../Users/smithn10/Desktop/My Stuff/Unreal Projects/FPS 2-21-19/FPS-2-21-19/Shooter/Content/MyFolder/Animations/Swat_AnimBP.uasset'
+[2019.03.09-21.38.43:630][328]LogSavePackage: Moving '../../../../../../Users/smithn10/Desktop/My Stuff/Unreal Projects/FPS 2-21-19/FPS-2-21-19/Shooter/Saved/Swat_AnimBP3CE86C684820B138A5BDBF8A1325F7D7.tmp' to '../../../../../../Users/smithn10/Desktop/My Stuff/Unreal Projects/FPS 2-21-19/FPS-2-21-19/Shooter/Content/MyFolder/Animations/Swat_AnimBP.uasset'
+[2019.03.09-21.39.09:567][168]LogSavePackage: Moving '../../../../../../Users/smithn10/Desktop/My Stuff/Unreal Projects/FPS 2-21-19/FPS-2-21-19/Shooter/Saved/Swat_AnimBP0AD16C414BB31C8F6BF96CA08F9930DB.tmp' to '../../../../../../Users/smithn10/Desktop/My Stuff/Unreal Projects/FPS 2-21-19/FPS-2-21-19/Shooter/Content/MyFolder/Animations/Swat_AnimBP.uasset'
+[2019.03.09-21.39.10:938][207]BlueprintLog: New page: Compile Swat_AnimBP
+[2019.03.09-21.39.12:226][226]LogSlate: Window 'Swat_AnimBP' being destroyed
+[2019.03.09-21.39.14:630][316]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/MyFolder/Animations/Swat_AnimBP.Swat_AnimBP
+[2019.03.09-21.39.14:678][316]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.03.09-21.39.15:665][316]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.03.09-21.39.16:777][316]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.03.09-21.39.58:596][983]LogSlate: Window 'Swat_AnimBP' being destroyed
+[2019.03.09-21.40.53:783][107]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.03.09-21.40.56:774][143]LogRenderer: Reallocating scene render targets to support 976x540 Format 10 NumSamples 1 (Frame:1).
+[2019.03.09-21.41.02:060][283]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Swat_Skeleton, removing AnimBP from actor.
+[2019.03.09-21.41.02:061][283]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Swat_Skeleton, removing AnimBP from actor.
+[2019.03.09-21.41.02:063][283]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Swat_Skeleton, removing AnimBP from actor.
+[2019.03.09-21.41.02:064][283]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Swat_Skeleton, removing AnimBP from actor.
+[2019.03.09-21.41.10:526][545]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
+[2019.03.09-21.41.10:527][545]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
+[2019.03.09-21.41.10:527][545]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
+[2019.03.09-21.41.30:620][269]LogEditorTransaction: Undo Set Rotation
+[2019.03.09-21.41.30:660][269]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_17:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0) Component already registered.
+[2019.03.09-21.41.30:663][269]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.CharacterMesh0) Component already registered.
+[2019.03.09-21.41.30:667][269]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_16:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0) Component already registered.
+[2019.03.09-21.41.30:668][269]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_17:PersistentLevel.ThirdPersonCharacter_C_0.Arrow) Component already registered.
+[2019.03.09-21.41.30:675][269]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_17:PersistentLevel.ThirdPersonCharacter_C_0.CharMoveComp) Component already registered.
+[2019.03.09-21.41.31:003][274]LogEditorTransaction: Undo Edit Anim Class
+[2019.03.09-21.41.31:039][274]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_17:PersistentLevel.ThirdPersonCharacter_C_0.CollisionCylinder) Component already registered.
+[2019.03.09-21.41.31:045][274]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.Arrow) Component already registered.
+[2019.03.09-21.41.31:047][274]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.CharMoveComp) Component already registered.
+[2019.03.09-21.41.31:049][274]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_17:PersistentLevel.ThirdPersonCharacter_C_0.Arrow) Component already registered.
+[2019.03.09-21.41.32:574][331]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.09-21.41.43:629][720]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.09-21.42.42:862][981]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.09-21.43.04:411][776]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.09-21.43.04:542][782]Cmd: MODE SCALEGRID=0
+[2019.03.09-21.43.10:506][994]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.09-21.43.10:593][998]Cmd: MODE GRID=0
+[2019.03.09-21.43.20:841][358]LogEditorTransaction: Undo Modify Component(s)
+[2019.03.09-21.43.29:050][669]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.09-21.43.29:115][672]Cmd: MODE GRID=1
+[2019.03.09-21.43.30:073][703]LogEditorTransaction: Undo Modify Component(s)
+[2019.03.09-21.43.59:821][844]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.09-21.44.52:675][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.09-21.45.11:038][516]LogEditorTransaction: Undo Edit Capsule Half Height
+[2019.03.09-21.45.11:068][516]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_17:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0) Component already registered.
+[2019.03.09-21.45.11:085][516]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.Arrow) Component already registered.
+[2019.03.09-21.45.11:087][516]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.CharMoveComp) Component already registered.
+[2019.03.09-21.45.11:089][516]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.CharacterMesh0) Component already registered.
+[2019.03.09-21.45.11:092][516]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_16:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0) Component already registered.
+[2019.03.09-21.45.12:724][580]LogEditorTransaction: Undo Edit Capsule Radius
+[2019.03.09-21.45.12:753][580]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_17:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0) Component already registered.
+[2019.03.09-21.45.12:770][580]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.Arrow) Component already registered.
+[2019.03.09-21.45.12:772][580]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.CharMoveComp) Component already registered.
+[2019.03.09-21.45.12:773][580]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.CharacterMesh0) Component already registered.
+[2019.03.09-21.45.12:776][580]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_16:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0) Component already registered.
+[2019.03.09-21.45.13:313][599]LogEditorTransaction: Undo Edit Capsule Radius
+[2019.03.09-21.45.13:343][599]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_17:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0) Component already registered.
+[2019.03.09-21.45.13:360][599]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.Arrow) Component already registered.
+[2019.03.09-21.45.13:363][599]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.CharMoveComp) Component already registered.
+[2019.03.09-21.45.13:366][599]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.CharacterMesh0) Component already registered.
+[2019.03.09-21.45.13:369][599]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_16:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0) Component already registered.
+[2019.03.09-21.45.13:865][617]LogEditorTransaction: Undo Edit Capsule Radius
+[2019.03.09-21.45.13:893][617]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_17:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0) Component already registered.
+[2019.03.09-21.45.13:909][617]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.Arrow) Component already registered.
+[2019.03.09-21.45.13:911][617]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.CharMoveComp) Component already registered.
+[2019.03.09-21.45.13:912][617]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.CharacterMesh0) Component already registered.
+[2019.03.09-21.45.13:916][617]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_16:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0) Component already registered.
+[2019.03.09-21.45.14:394][635]LogEditorTransaction: Undo Modify Component(s)
+[2019.03.09-21.45.17:941][793]LogEditorTransaction: Redo Modify Component(s)
+[2019.03.09-21.46.06:813][597]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.09-21.46.06:933][602]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.03.09-21.46.10:456][678]LogSavePackage: Moving '../../../../../../Users/smithn10/Desktop/My Stuff/Unreal Projects/FPS 2-21-19/FPS-2-21-19/Shooter/Saved/ThirdPersonCharacterEC3F3A3642420729C91A2D854EF1A12E.tmp' to '../../../../../../Users/smithn10/Desktop/My Stuff/Unreal Projects/FPS 2-21-19/FPS-2-21-19/Shooter/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.03.09-21.46.10:939][695]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2019.03.09-21.46.13:089][802]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.03.09-21.46.14:829][856]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.09-21.46.14:952][862]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.09-21.46.15:035][862]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.09-21.46.15:035][862]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.09-21.46.15:051][862]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 9, 2019, 11:46:15 AM)
+[2019.03.09-21.46.15:052][862]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.03.09-21.46.15:113][862]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062354s)
+[2019.03.09-21.46.15:116][862]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.03.09-21.46.15:117][862]LogPlayLevel: PIE: World Init took: (0.003250s)
+[2019.03.09-21.46.15:117][862]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.066241s)
+[2019.03.09-21.46.15:285][862]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.09-21.46.15:390][862]LogInit: FAudioDevice initialized.
+[2019.03.09-21.46.15:543][862]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.03.09-21.46.15:550][862]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.03.09-16.46.15
+[2019.03.09-21.46.15:553][862]LogWorld: Bringing up level for play took: 0.007159
+[2019.03.09-21.46.15:606][862]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0010 seconds. Added 10 classes and 0 folders.
+[2019.03.09-21.46.15:609][862]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.161
+[2019.03.09-21.46.15:610][862]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.09-21.47.23:392][907]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.09-21.47.23:393][907]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.09-21.47.23:447][907]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.09-21.47.23:448][907]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.09-21.47.23:549][907]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.09-21.47.23:609][908]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.03.09-21.47.24:504][957]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.09-21.47.25:319][957]LogSavePackage: Moving '../../../../../../Users/smithn10/Desktop/My Stuff/Unreal Projects/FPS 2-21-19/FPS-2-21-19/Shooter/Saved/ThirdPersonExampleMapDEBB821442848F680DFA3982A707C72D.tmp' to '../../../../../../Users/smithn10/Desktop/My Stuff/Unreal Projects/FPS 2-21-19/FPS-2-21-19/Shooter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.03.09-21.47.26:354][957]LogSavePackage: Moving '../../../../../../Users/smithn10/Desktop/My Stuff/Unreal Projects/FPS 2-21-19/FPS-2-21-19/Shooter/Saved/ThirdPersonExampleMap_BuiltDataFCCAC0B740B25F7B44EDE180BCDDED28.tmp' to '../../../../../../Users/smithn10/Desktop/My Stuff/Unreal Projects/FPS 2-21-19/FPS-2-21-19/Shooter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.03.09-21.47.40:612][778]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall9)
+[2019.03.09-21.47.41:260][799]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.03.09-21.47.49:678][ 88]Cmd: TRANSACTION UNDO
+[2019.03.09-21.47.49:678][ 88]LogEditorTransaction: Undo Rotate Actors
+[2019.03.09-21.47.50:754][120]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall9)
+[2019.03.09-21.47.52:442][189]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.03.09-21.47.54:654][303]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.09-21.48.35:754][532]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/MyFolder/Animations/Swat_AnimBP.Swat_AnimBP
+[2019.03.09-21.48.35:804][532]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.03.09-21.48.36:807][532]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.03.09-21.48.39:365][570]LogSlate: Window 'Swat_AnimBP' being destroyed
+[2019.03.09-21.48.45:875][851]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/MyFolder/Animations/Swat_WalkRunBS.Swat_WalkRunBS
+[2019.03.09-21.48.45:905][851]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.03.09-21.48.46:101][851]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.03.09-21.48.47:545][851]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.03.09-21.48.57:380][ 87]LogSavePackage: Moving '../../../../../../Users/smithn10/Desktop/My Stuff/Unreal Projects/FPS 2-21-19/FPS-2-21-19/Shooter/Saved/Swat_WalkRunBS15F4D298480CF15D6C5283AF581CE384.tmp' to '../../../../../../Users/smithn10/Desktop/My Stuff/Unreal Projects/FPS 2-21-19/FPS-2-21-19/Shooter/Content/MyFolder/Animations/Swat_WalkRunBS.uasset'
+[2019.03.09-21.48.58:140][101]LogSlate: Window 'Swat_WalkRunBS' being destroyed
+[2019.03.09-21.49.00:289][153]LogSavePackage: Moving '../../../../../../Users/smithn10/Desktop/My Stuff/Unreal Projects/FPS 2-21-19/FPS-2-21-19/Shooter/Saved/ThirdPersonExampleMap7CBAC3B247015F4DDEC2EE9E32C43135.tmp' to '../../../../../../Users/smithn10/Desktop/My Stuff/Unreal Projects/FPS 2-21-19/FPS-2-21-19/Shooter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.03.09-21.49.00:928][153]LogSavePackage: Moving '../../../../../../Users/smithn10/Desktop/My Stuff/Unreal Projects/FPS 2-21-19/FPS-2-21-19/Shooter/Saved/ThirdPersonExampleMap_BuiltDataB6EA44C640E59687691B8FA8DA31D85C.tmp' to '../../../../../../Users/smithn10/Desktop/My Stuff/Unreal Projects/FPS 2-21-19/FPS-2-21-19/Shooter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.03.09-21.50.02:344][ 84]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/smithn10/Desktop/My Stuff/Unreal Projects/FPS 2-21-19/FPS-2-21-19/FPSAssets/Weapon/AK.obj)
+[2019.03.09-21.50.02:416][ 84]LogFbx: Loading FBX Scene from ../../../../../../Users/smithn10/Desktop/My Stuff/Unreal Projects/FPS 2-21-19/FPS-2-21-19/FPSAssets/Weapon/AK.obj
+[2019.03.09-21.50.02:714][ 84]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.09-21.50.28:704][ 84]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.03.09-21.50.28:872][ 84]LogFbx: =================================================
+[2019.03.09-21.50.28:872][ 84]LogFbx: Dumping Node START [AK] 
+[2019.03.09-21.50.28:872][ 84]LogFbx: 	Total Deformer Count -1746353792.
+[2019.03.09-21.50.28:873][ 84]LogFbx: 	Attribute () Type (4).
+[2019.03.09-21.50.28:873][ 84]LogFbx: 		[Node Attribute Child 1] AK (Type Mesh).
+[2019.03.09-21.50.28:873][ 84]LogFbx: Dumping Node END [AK]
+[2019.03.09-21.50.28:873][ 84]LogFbx: =================================================
+[2019.03.09-21.50.28:873][ 84]LogFbx: Dumping Node START [AK] 
+[2019.03.09-21.50.28:873][ 84]LogFbx: 	Total Deformer Count -1746353792.
+[2019.03.09-21.50.28:873][ 84]LogFbx: 	Attribute () Type (4).
+[2019.03.09-21.50.28:873][ 84]LogFbx: 		[Node Attribute Child 1] AK (Type Mesh).
+[2019.03.09-21.50.28:873][ 84]LogFbx: Dumping Node END [AK]
+[2019.03.09-21.50.28:873][ 84]LogFbx: =================================================
+[2019.03.09-21.50.28:873][ 84]LogFbx: Dumping Node START [AK] 
+[2019.03.09-21.50.28:873][ 84]LogFbx: 	Total Deformer Count -1746353792.
+[2019.03.09-21.50.28:873][ 84]LogFbx: 	Attribute () Type (4).
+[2019.03.09-21.50.28:873][ 84]LogFbx: 		[Node Attribute Child 1] AK (Type Mesh).
+[2019.03.09-21.50.28:873][ 84]LogFbx: Dumping Node END [AK]
+[2019.03.09-21.50.29:604][ 84]LogMaterial: Warning: Material /Game/MyFolder/Weapons/AK47/AKMat.AKMat needed to have new flag set bUsedWithSkeletalMesh !
+[2019.03.09-21.50.29:611][ 84]LogMaterial: Display: Missing cached shader map for material AKMat, compiling. 
+[2019.03.09-21.50.29:906][ 84]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.03.09-21.50.29:906][ 84]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.03.09-21.50.29:906][ 84]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.03.09-21.50.29:906][ 84]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.03.09-21.50.29:917][ 84]LogMaterial: Display: Missing cached shader map for material AKMat, compiling. 
+[2019.03.09-21.50.30:069][ 84]LogFbx: Triangulating skeletal mesh AK
+[2019.03.09-21.50.31:652][ 84]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2019.03.09-21.50.32:397][ 84]LogSkeletalMesh: Section 0: 5823 vertices, 1 active bones
+[2019.03.09-21.50.32:399][ 84]LogSkeletalMesh: Section 0: Material=0, 8892 triangles
+[2019.03.09-21.50.32:400][ 84]LogSkeletalMesh: Building Skeletal Mesh AK...
+[2019.03.09-21.50.32:426][ 84]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/MyFolder/Weapons/AK47/AK.AK
+[2019.03.09-21.50.32:435][ 84]LogLinker: Can't find file '/Game/MyFolder/Weapons/AK47/AK_Skeleton'
+[2019.03.09-21.50.32:435][ 84]LogLinker: Can't find file '/Game/MyFolder/Weapons/AK47/AK_Skeleton'
+[2019.03.09-21.50.32:446][ 84]LogLinker: Can't find file '/Game/MyFolder/Weapons/AK47/AK_PhysicsAsset'
+[2019.03.09-21.50.32:447][ 84]LogLinker: Can't find file '/Game/MyFolder/Weapons/AK47/AK_PhysicsAsset'
+[2019.03.09-21.50.32:474][ 84]LogSkeletalMesh: Building Skeletal Mesh AK...
+[2019.03.09-21.50.32:501][ 84]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/MyFolder/Weapons/AK47/AK.AK
+[2019.03.09-21.50.32:521][ 84]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2019.03.09-21.50.32:555][ 84]LogSkeletalMesh: Building Skeletal Mesh AK...
+[2019.03.09-21.50.32:584][ 84]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/MyFolder/Weapons/AK47/AK.AK
+[2019.03.09-21.50.32:622][ 84]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/smithn10/Desktop/My Stuff/Unreal Projects/FPS 2-21-19/FPS-2-21-19/FPSAssets/Weapon/AK_diffuse.jpg)
+[2019.03.09-21.50.33:065][ 84]LogTexture: Display: Building textures: AK_diffuse (AutoDXT, 2048X2048)
+[2019.03.09-21.50.35:942][ 84]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/smithn10/Desktop/My Stuff/Unreal Projects/FPS 2-21-19/FPS-2-21-19/FPSAssets/Weapon/AK_normal.jpg)
+[2019.03.09-21.50.36:329][ 84]LogTexture: Display: Building textures: AK_normal (BC5, 2048X2048)
+[2019.03.09-21.50.36:726][ 84]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/smithn10/Desktop/My Stuff/Unreal Projects/FPS 2-21-19/FPS-2-21-19/FPSAssets/Weapon/AK_specular.jpg)
+[2019.03.09-21.50.36:790][ 84]LogTexture: Display: Building textures: AK_specular (AutoDXT, 2048X2048)
+[2019.03.09-21.50.38:044][127]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.03.09-21.50.38:276][139]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.03.09-21.50.38:537][151]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.03.09-21.50.39:547][211]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.03.09-21.50.41:128][299]LogSlate: Window 'Message Log' being destroyed
+[2019.03.09-21.50.41:139][299]LogSlate: Window 'Message Log' being destroyed
+[2019.03.09-21.50.41:283][308]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.09-21.50.42:428][376]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.09-21.50.52:685][921]LogAssetEditorManager: Opening Asset editor for Material /Game/MyFolder/Weapons/AK47/AKMat.AKMat
+[2019.03.09-21.50.52:701][921]LogMaterial: Display: Missing cached shader map for material AKMat, compiling. 
+[2019.03.09-21.50.53:055][921]LogMaterial: Display: Missing cached shader map for material AKMat, compiling. 
+[2019.03.09-21.50.53:169][921]LogShaderCompilers: Display: Shaders left to compile 59
+[2019.03.09-21.50.53:169][921]LogShaderCompilers: Display: Shaders left to compile 58
+[2019.03.09-21.50.53:169][921]LogShaderCompilers: Display: Shaders left to compile 57
+[2019.03.09-21.50.53:169][921]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.03.09-21.50.53:204][921]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.03.09-21.50.54:027][927]LogShaderCompilers: Display: Shaders left to compile 57
+[2019.03.09-21.50.54:198][932]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.03.09-21.50.54:265][934]LogShaderCompilers: Display: Shaders left to compile 55
+[2019.03.09-21.50.54:329][936]LogShaderCompilers: Display: Shaders left to compile 54
+[2019.03.09-21.50.54:863][950]LogShaderCompilers: Display: Shaders left to compile 53
+[2019.03.09-21.50.54:891][951]LogShaderCompilers: Display: Shaders left to compile 52
+[2019.03.09-21.50.54:920][952]LogShaderCompilers: Display: Shaders left to compile 51
+[2019.03.09-21.50.54:985][954]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.03.09-21.50.55:395][968]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.03.09-21.50.55:791][982]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.03.09-21.50.56:064][992]LogShaderCompilers: Display: Shaders left to compile 47
+[2019.03.09-21.50.56:149][995]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.03.09-21.50.56:494][  9]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.03.09-21.50.56:640][ 15]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.03.09-21.50.56:878][ 26]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.03.09-21.50.57:129][ 38]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.03.09-21.50.57:147][ 39]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.03.09-21.50.57:397][ 52]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.03.09-21.50.57:576][ 60]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.03.09-21.50.57:576][ 60]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.03.09-21.50.57:812][ 71]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.03.09-21.50.57:812][ 71]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.03.09-21.50.57:978][ 80]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.03.09-21.50.57:998][ 81]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.03.09-21.50.58:155][ 89]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.03.09-21.50.58:174][ 90]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.03.09-21.50.58:316][ 97]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.03.09-21.50.58:332][ 98]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.03.09-21.50.58:800][123]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.03.09-21.50.58:854][126]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.03.09-21.50.58:890][128]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.03.09-21.50.59:010][135]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.03.09-21.50.59:249][146]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.03.09-21.50.59:453][157]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.03.09-21.50.59:597][165]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.03.09-21.50.59:666][169]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.09-21.50.59:736][173]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.09-21.51.00:031][188]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.09-21.51.00:089][191]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.03.09-21.51.00:141][194]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.09-21.51.00:226][199]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.03.09-21.51.00:407][209]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.09-21.51.00:443][211]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.09-21.51.00:459][212]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.03.09-21.51.00:527][216]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.03.09-21.51.00:700][226]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.09-21.51.00:738][228]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.09-21.51.01:119][246]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.09-21.51.01:136][247]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.03.09-21.51.01:209][251]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.03.09-21.51.01:404][261]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.03.09-21.51.01:508][266]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.03.09-21.51.01:758][279]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.09-21.51.01:892][286]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.09-21.51.01:908][287]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.09-21.51.02:159][300]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.09-21.51.02:306][304]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.09-21.51.04:165][304]LogSlate: Window 'Message' being destroyed
+[2019.03.09-21.51.09:576][304]LogMaterial: Display: Missing cached shader map for material AKMat, compiling. 
+[2019.03.09-21.51.09:806][304]LogShaderCompilers: Display: Shaders left to compile 59
+[2019.03.09-21.51.09:806][304]LogShaderCompilers: Display: Shaders left to compile 58
+[2019.03.09-21.51.09:807][304]LogShaderCompilers: Display: Shaders left to compile 57
+[2019.03.09-21.51.09:807][304]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.03.09-21.51.09:882][304]LogMaterial: Display: Missing cached shader map for material AKMat, compiling. 
+[2019.03.09-21.51.10:059][304]LogMaterial: Display: Missing cached shader map for material AKMat, compiling. 
+[2019.03.09-21.51.10:313][304]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy AKMat, compiling. 
+[2019.03.09-21.51.19:635][304]LogShaderCompilers: Display: Shaders left to compile 116
+[2019.03.09-21.51.19:635][304]LogShaderCompilers: Display: Shaders left to compile 115
+[2019.03.09-21.51.19:635][304]LogShaderCompilers: Display: Shaders left to compile 114
+[2019.03.09-21.51.19:635][304]LogShaderCompilers: Display: Shaders left to compile 113
+[2019.03.09-21.51.19:635][304]LogShaderCompilers: Display: Shaders left to compile 112
+[2019.03.09-21.51.19:635][304]LogShaderCompilers: Display: Shaders left to compile 111
+[2019.03.09-21.51.19:635][304]LogShaderCompilers: Display: Shaders left to compile 110
+[2019.03.09-21.51.19:635][304]LogShaderCompilers: Display: Shaders left to compile 109
+[2019.03.09-21.51.19:635][304]LogShaderCompilers: Display: Shaders left to compile 108
+[2019.03.09-21.51.19:635][304]LogShaderCompilers: Display: Shaders left to compile 107
+[2019.03.09-21.51.19:635][304]LogShaderCompilers: Display: Shaders left to compile 106
+[2019.03.09-21.51.19:635][304]LogShaderCompilers: Display: Shaders left to compile 105
+[2019.03.09-21.51.19:635][304]LogShaderCompilers: Display: Shaders left to compile 104
+[2019.03.09-21.51.19:635][304]LogShaderCompilers: Display: Shaders left to compile 103
+[2019.03.09-21.51.19:635][304]LogShaderCompilers: Display: Shaders left to compile 102
+[2019.03.09-21.51.19:635][304]LogShaderCompilers: Display: Shaders left to compile 101
+[2019.03.09-21.51.19:635][304]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.03.09-21.51.19:635][304]LogShaderCompilers: Display: Shaders left to compile 99
+[2019.03.09-21.51.19:635][304]LogShaderCompilers: Display: Shaders left to compile 98
+[2019.03.09-21.51.19:635][304]LogShaderCompilers: Display: Shaders left to compile 97
+[2019.03.09-21.51.19:635][304]LogShaderCompilers: Display: Shaders left to compile 96
+[2019.03.09-21.51.19:635][304]LogShaderCompilers: Display: Shaders left to compile 95
+[2019.03.09-21.51.19:635][304]LogShaderCompilers: Display: Shaders left to compile 94
+[2019.03.09-21.51.19:636][304]LogShaderCompilers: Display: Shaders left to compile 93
+[2019.03.09-21.51.19:636][304]LogShaderCompilers: Display: Shaders left to compile 92
+[2019.03.09-21.51.19:636][304]LogShaderCompilers: Display: Shaders left to compile 91
+[2019.03.09-21.51.19:636][304]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.03.09-21.51.19:636][304]LogShaderCompilers: Display: Shaders left to compile 89
+[2019.03.09-21.51.19:636][304]LogShaderCompilers: Display: Shaders left to compile 88
+[2019.03.09-21.51.19:636][304]LogShaderCompilers: Display: Shaders left to compile 87
+[2019.03.09-21.51.19:636][304]LogShaderCompilers: Display: Shaders left to compile 86
+[2019.03.09-21.51.19:636][304]LogShaderCompilers: Display: Shaders left to compile 85
+[2019.03.09-21.51.19:636][304]LogShaderCompilers: Display: Shaders left to compile 84
+[2019.03.09-21.51.19:636][304]LogShaderCompilers: Display: Shaders left to compile 83
+[2019.03.09-21.51.19:636][304]LogShaderCompilers: Display: Shaders left to compile 82
+[2019.03.09-21.51.19:636][304]LogShaderCompilers: Display: Shaders left to compile 81
+[2019.03.09-21.51.19:636][304]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.03.09-21.51.19:636][304]LogShaderCompilers: Display: Shaders left to compile 79
+[2019.03.09-21.51.19:636][304]LogShaderCompilers: Display: Shaders left to compile 78
+[2019.03.09-21.51.19:636][304]LogShaderCompilers: Display: Shaders left to compile 77
+[2019.03.09-21.51.19:636][304]LogShaderCompilers: Display: Shaders left to compile 76
+[2019.03.09-21.51.19:636][304]LogShaderCompilers: Display: Shaders left to compile 75
+[2019.03.09-21.51.19:636][304]LogShaderCompilers: Display: Shaders left to compile 74
+[2019.03.09-21.51.19:636][304]LogShaderCompilers: Display: Shaders left to compile 73
+[2019.03.09-21.51.19:636][304]LogShaderCompilers: Display: Shaders left to compile 72
+[2019.03.09-21.51.19:636][304]LogShaderCompilers: Display: Shaders left to compile 71
+[2019.03.09-21.51.19:637][304]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.03.09-21.51.19:637][304]LogShaderCompilers: Display: Shaders left to compile 69
+[2019.03.09-21.51.19:637][304]LogShaderCompilers: Display: Shaders left to compile 68
+[2019.03.09-21.51.19:637][304]LogShaderCompilers: Display: Shaders left to compile 67
+[2019.03.09-21.51.19:637][304]LogShaderCompilers: Display: Shaders left to compile 66
+[2019.03.09-21.51.19:637][304]LogShaderCompilers: Display: Shaders left to compile 65
+[2019.03.09-21.51.19:637][304]LogShaderCompilers: Display: Shaders left to compile 64
+[2019.03.09-21.51.19:637][304]LogShaderCompilers: Display: Shaders left to compile 63
+[2019.03.09-21.51.19:637][304]LogShaderCompilers: Display: Shaders left to compile 62
+[2019.03.09-21.51.19:637][304]LogShaderCompilers: Display: Shaders left to compile 61
+[2019.03.09-21.51.19:637][304]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.03.09-21.51.19:637][304]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.03.09-21.51.19:640][304]TextureStreamingBuild: Display: Compiling optional shaders took 9.350 seconds.
+[2019.03.09-21.51.19:693][304]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.03.09-21.51.19:703][304]LogSlate: Window 'AKMat*' being destroyed
+[2019.03.09-21.51.19:888][304]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.03.09-21.51.22:867][478]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.09-21.51.23:484][515]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.09-21.51.28:174][695]LogSlate: Window 'Delete Assets' being destroyed
+[2019.03.09-21.51.30:312][695]LogSkeletalMesh: Building Skeletal Mesh AK...
+[2019.03.09-21.51.30:344][695]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/MyFolder/Weapons/AK47/AK.AK
+[2019.03.09-21.51.48:880][624]LogAssetEditorManager: Opening Asset editor for Material /Game/MyFolder/Weapons/AK47/AK47_Material.AK47_Material
+[2019.03.09-21.51.48:890][624]LogMaterial: Display: Missing cached shader map for material AK47_Material, compiling. 
+[2019.03.09-21.51.49:119][624]LogMaterial: Display: Missing cached shader map for material AK47_Material, compiling. 
+[2019.03.09-21.51.49:173][624]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.09-21.51.49:174][624]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.09-21.51.49:174][624]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.03.09-21.51.49:174][624]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.09-21.51.49:184][624]LogMaterial: Display: Missing cached shader map for material AK47_Material, compiling. 
+[2019.03.09-21.51.50:999][659]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.09-21.51.51:174][665]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.09-21.51.51:261][668]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.03.09-21.51.51:348][671]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.09-21.51.51:760][688]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.03.09-21.51.51:834][691]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.09-21.51.51:858][692]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.09-21.51.51:903][694]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.03.09-21.51.52:177][705]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.03.09-21.51.52:221][707]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.09-21.51.52:244][708]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.09-21.51.52:267][709]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.09-21.51.52:577][723]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.03.09-21.51.52:759][730]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.03.09-21.51.53:113][744]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.03.09-21.51.53:134][745]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.03.09-21.51.53:375][756]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.09-21.51.53:595][765]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.09-21.51.53:611][766]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.09-21.51.53:892][780]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.09-21.51.54:017][786]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.09-21.51.54:537][814]MaterialEditorStats: Base pass shader: 99 instructions
+[2019.03.09-21.51.54:537][814]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2019.03.09-21.51.54:537][814]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.03.09-21.51.54:537][814]MaterialEditorStats: Texture samplers: 3/16
+[2019.03.09-21.51.58:800][969]LogMaterial: Display: Missing cached shader map for material AK47_Material, compiling. 
+[2019.03.09-21.51.58:850][969]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.09-21.51.58:850][969]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.09-21.51.58:850][969]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.03.09-21.51.58:850][969]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.09-21.51.58:850][969]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.03.09-21.51.59:744][988]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.03.09-21.51.59:816][990]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.09-21.51.59:847][991]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.09-21.51.59:847][991]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.03.09-21.52.00:306][  5]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.03.09-21.52.00:405][  8]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.09-21.52.00:405][  8]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.09-21.52.00:430][  9]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.09-21.52.00:784][ 21]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.03.09-21.52.01:065][ 31]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.03.09-21.52.01:439][ 45]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.03.09-21.52.01:490][ 47]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.03.09-21.52.01:774][ 57]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.09-21.52.01:973][ 65]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.09-21.52.02:090][ 69]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.09-21.52.02:394][ 82]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.09-21.52.02:448][ 84]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.09-21.52.03:083][115]MaterialEditorStats: Base pass shader: 99 instructions
+[2019.03.09-21.52.03:083][115]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2019.03.09-21.52.03:083][115]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.03.09-21.52.03:083][115]MaterialEditorStats: Texture samplers: 3/16
+[2019.03.09-21.52.03:484][135]LogMaterial: Display: Missing cached shader map for material AK47_Material, compiling. 
+[2019.03.09-21.52.03:486][135]LogMaterial: Warning: /Engine/Transient.AK47_Material (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.09-21.52.03:486][135]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.03.09-21.52.03:504][135]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.03.09-21.52.03:536][135]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2019.03.09-21.52.19:022][681]LogMaterial: Display: Missing cached shader map for material AK47_Material, compiling. 
+[2019.03.09-21.52.19:024][681]LogMaterial: Warning: /Engine/Transient.AK47_Material (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.09-21.52.19:024][681]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.03.09-21.52.19:032][681]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.03.09-21.52.19:049][681]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.09-21.52.19:049][681]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.09-21.52.19:082][681]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.03.09-21.52.19:089][681]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.03.09-21.52.19:103][681]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.09-21.52.19:103][681]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.09-21.52.34:194][143]LogMaterial: Display: Missing cached shader map for material AK47_Material, compiling. 
+[2019.03.09-21.52.34:252][143]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.09-21.52.34:253][143]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.09-21.52.34:253][143]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.03.09-21.52.34:253][143]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.09-21.52.34:253][143]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.03.09-21.52.34:302][143]LogMaterial: Display: Missing cached shader map for material AK47_Material, compiling. 
+[2019.03.09-21.52.35:285][164]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.03.09-21.52.35:420][168]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.09-21.52.35:557][172]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.09-21.52.35:557][172]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.09-21.52.36:253][188]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.03.09-21.52.36:323][190]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.09-21.52.36:347][191]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.03.09-21.52.36:347][191]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.09-21.52.36:780][207]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.09-21.52.36:830][209]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.03.09-21.52.36:830][209]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.03.09-21.52.36:830][209]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.09-21.52.37:231][223]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.09-21.52.37:231][223]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.09-21.52.37:264][225]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.03.09-21.52.37:756][245]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.03.09-21.52.37:778][246]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.03.09-21.52.38:125][262]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.03.09-21.52.38:144][263]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.09-21.52.38:245][268]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.09-21.52.38:579][283]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.09-21.52.38:719][290]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.09-21.52.38:893][297]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.09-21.52.39:001][302]LogMaterial: Display: Missing cached shader map for material AK47_Material, compiling. 
+[2019.03.09-21.52.39:025][302]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.09-21.52.39:061][302]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.03.09-21.52.39:069][302]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.03.09-21.52.39:173][304]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.03.09-21.52.39:279][309]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.03.09-21.52.39:341][312]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.09-21.52.39:432][317]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.09-21.52.39:621][325]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.09-21.52.39:685][328]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.03.09-21.52.39:705][329]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.09-21.52.39:811][334]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.03.09-21.52.39:955][341]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.09-21.52.39:972][342]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.09-21.52.40:011][344]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.03.09-21.52.40:080][348]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.03.09-21.52.40:390][363]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.09-21.52.40:634][374]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.09-21.52.40:676][376]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.09-21.52.40:752][380]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.03.09-21.52.41:038][394]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.03.09-21.52.41:084][396]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.03.09-21.52.41:401][410]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.03.09-21.52.41:463][413]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.09-21.52.41:499][415]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.09-21.52.41:669][424]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.09-21.52.41:852][430]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.09-21.52.41:998][435]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.09-21.52.42:047][436]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.03.09-21.52.42:047][436]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2019.03.09-21.52.42:047][436]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.03.09-21.52.42:047][436]MaterialEditorStats: Texture samplers: 4/16
+[2019.03.09-21.52.42:047][436]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.03.09-21.52.42:047][436]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.03.09-21.52.44:700][510]LogMaterial: Display: Missing cached shader map for material AK47_Material, compiling. 
+[2019.03.09-21.52.44:751][510]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.09-21.52.44:751][510]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.09-21.52.44:751][510]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.03.09-21.52.44:752][510]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.09-21.52.44:759][510]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.03.09-21.52.44:807][510]LogMaterial: Display: Missing cached shader map for material AK47_Material, compiling. 
+[2019.03.09-21.52.45:847][532]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.03.09-21.52.45:964][535]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.09-21.52.45:997][536]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.09-21.52.46:031][537]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.09-21.52.46:757][560]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.03.09-21.52.46:782][561]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.09-21.52.46:810][562]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.03.09-21.52.46:872][564]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.09-21.52.47:304][580]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.09-21.52.47:332][581]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.03.09-21.52.47:357][582]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.03.09-21.52.47:384][583]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.09-21.52.47:663][594]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.09-21.52.47:762][598]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.09-21.52.47:784][599]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.03.09-21.52.48:284][621]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.03.09-21.52.48:306][622]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.03.09-21.52.48:575][635]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.03.09-21.52.48:641][638]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.09-21.52.48:798][645]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.09-21.52.49:078][657]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.09-21.52.49:231][664]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.09-21.52.49:343][669]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.09-21.52.49:882][697]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.03.09-21.52.49:882][697]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2019.03.09-21.52.49:882][697]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.03.09-21.52.49:882][697]MaterialEditorStats: Texture samplers: 4/16
+[2019.03.09-21.52.49:882][697]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.03.09-21.52.49:882][697]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.03.09-21.52.51:398][750]LogMaterial: Display: Missing cached shader map for material AK47_Material, compiling. 
+[2019.03.09-21.52.51:452][750]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.09-21.52.51:452][750]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.09-21.52.51:452][750]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.03.09-21.52.51:452][750]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.09-21.52.51:452][750]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.03.09-21.52.52:345][769]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.03.09-21.52.52:484][773]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.09-21.52.52:484][773]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.03.09-21.52.52:515][774]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.09-21.52.52:928][785]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.09-21.52.52:985][787]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.03.09-21.52.53:038][789]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.03.09-21.52.53:068][790]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.09-21.52.53:432][802]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.09-21.52.53:716][812]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.09-21.52.54:022][824]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.03.09-21.52.54:132][828]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.03.09-21.52.54:411][839]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.03.09-21.52.54:589][846]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.03.09-21.52.54:725][852]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.09-21.52.55:048][865]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.09-21.52.55:099][867]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.09-21.52.55:342][877]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.09-21.52.55:416][880]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.09-21.52.55:770][895]MaterialEditorStats: Base pass shader: 102 instructions
+[2019.03.09-21.52.55:770][895]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2019.03.09-21.52.55:770][895]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.03.09-21.52.55:770][895]MaterialEditorStats: Texture samplers: 4/16
+[2019.03.09-21.52.55:770][895]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.03.09-21.52.55:770][895]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.03.09-21.53.08:184][308]LogMaterial: Display: Missing cached shader map for material AK47_Material, compiling. 
+[2019.03.09-21.53.08:233][308]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.09-21.53.08:233][308]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.09-21.53.08:233][308]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.03.09-21.53.08:233][308]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.09-21.53.08:242][308]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.03.09-21.53.09:108][327]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.03.09-21.53.09:214][330]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.09-21.53.09:243][331]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.03.09-21.53.09:271][332]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.09-21.53.09:784][348]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.09-21.53.09:810][349]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.03.09-21.53.09:867][351]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.03.09-21.53.09:894][352]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.09-21.53.10:261][365]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.09-21.53.10:554][376]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.09-21.53.10:868][388]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.03.09-21.53.10:976][392]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.03.09-21.53.11:229][402]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.03.09-21.53.11:425][410]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.03.09-21.53.11:531][414]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.09-21.53.11:927][432]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.09-21.53.11:970][434]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.09-21.53.12:230][446]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.09-21.53.12:251][447]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.09-21.53.12:678][467]MaterialEditorStats: Base pass shader: 108 instructions
+[2019.03.09-21.53.12:678][467]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.03.09-21.53.12:678][467]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.03.09-21.53.12:678][467]MaterialEditorStats: Texture samplers: 5/16
+[2019.03.09-21.53.12:678][467]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2019.03.09-21.53.12:679][467]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.03.09-21.53.18:711][665]LogMaterial: Display: Missing cached shader map for material AK47_Material, compiling. 
+[2019.03.09-21.53.18:760][665]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.09-21.53.18:760][665]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.09-21.53.18:760][665]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.03.09-21.53.18:761][665]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.09-21.53.18:768][665]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.03.09-21.53.19:647][684]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.03.09-21.53.19:727][686]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.09-21.53.19:759][687]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.03.09-21.53.19:785][688]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.09-21.53.20:331][705]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.09-21.53.20:364][706]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.03.09-21.53.20:395][707]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.03.09-21.53.20:447][709]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.09-21.53.20:813][722]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.09-21.53.21:108][733]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.09-21.53.21:419][744]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.03.09-21.53.21:547][749]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.03.09-21.53.21:802][759]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.03.09-21.53.21:984][766]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.03.09-21.53.22:083][770]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.09-21.53.22:470][785]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.09-21.53.22:518][787]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.09-21.53.22:752][797]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.09-21.53.22:856][802]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.09-21.53.23:219][819]MaterialEditorStats: Base pass shader: 114 instructions
+[2019.03.09-21.53.23:219][819]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 188 instructions
+[2019.03.09-21.53.23:219][819]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.03.09-21.53.23:219][819]MaterialEditorStats: Texture samplers: 6/16
+[2019.03.09-21.53.23:219][819]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.03.09-21.53.23:219][819]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.03.09-21.53.31:232][106]LogMaterialEditor: Saving and Compiling material AK47_Material
+[2019.03.09-21.53.33:252][106]LogMaterial: Display: Missing cached shader map for material AK47_Material, compiling. 
+[2019.03.09-21.53.33:428][106]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.09-21.53.33:428][106]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.09-21.53.33:429][106]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.03.09-21.53.33:429][106]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.09-21.53.33:503][106]LogMaterial: Display: Missing cached shader map for material AK47_Material, compiling. 
+[2019.03.09-21.53.33:590][106]LogMaterial: Display: Missing cached shader map for material AK47_Material, compiling. 
+[2019.03.09-21.53.33:798][106]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy AK47_Material, compiling. 
+[2019.03.09-21.53.37:702][106]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.03.09-21.53.37:702][106]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.03.09-21.53.37:702][106]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.03.09-21.53.37:702][106]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.03.09-21.53.37:702][106]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.03.09-21.53.37:702][106]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.03.09-21.53.37:702][106]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.03.09-21.53.37:702][106]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.03.09-21.53.37:702][106]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.03.09-21.53.37:702][106]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.03.09-21.53.37:702][106]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.03.09-21.53.37:702][106]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.03.09-21.53.37:702][106]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.03.09-21.53.37:702][106]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.03.09-21.53.37:702][106]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.03.09-21.53.37:702][106]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.03.09-21.53.37:702][106]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.03.09-21.53.37:702][106]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.03.09-21.53.37:703][106]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.09-21.53.37:703][106]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.09-21.53.37:703][106]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.09-21.53.37:707][106]TextureStreamingBuild: Display: Compiling optional shaders took 3.934 seconds.
+[2019.03.09-21.53.45:890][106]LogSavePackage: Moving '../../../../../../Users/smithn10/Desktop/My Stuff/Unreal Projects/FPS 2-21-19/FPS-2-21-19/Shooter/Saved/AK47_Material7250C7604D32071146D4B3825252B929.tmp' to '../../../../../../Users/smithn10/Desktop/My Stuff/Unreal Projects/FPS 2-21-19/FPS-2-21-19/Shooter/Content/MyFolder/Weapons/AK47/AK47_Material.uasset'
+[2019.03.09-21.53.49:413][208]LogSlate: Window 'AK47_Material' being destroyed
+[2019.03.09-21.53.50:476][238]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/MyFolder/Weapons/AK47/AK.AK
+[2019.03.09-21.53.50:511][238]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.03.09-21.53.50:626][238]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.03.09-21.53.51:802][238]LogRenderer: Reallocating scene render targets to support 976x672 Format 10 NumSamples 1 (Frame:1).
+[2019.03.09-21.53.59:568][441]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.09-21.54.04:384][560]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.09-21.54.08:462][653]LogSkeletalMesh: Building Skeletal Mesh AK...
+[2019.03.09-21.54.08:498][653]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/MyFolder/Weapons/AK47/AK.AK
+[2019.03.09-21.54.08:499][653]LogMaterial: Warning: Material /Game/MyFolder/Weapons/AK47/AK47_Material.AK47_Material needed to have new flag set bUsedWithSkeletalMesh !
+[2019.03.09-21.54.08:517][653]LogMaterial: Display: Missing cached shader map for material AK47_Material, compiling. 
+[2019.03.09-21.54.08:650][653]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.03.09-21.54.08:650][653]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.03.09-21.54.08:650][653]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.03.09-21.54.08:650][653]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.03.09-21.54.14:764][793]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.09-21.54.15:422][817]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.09-21.54.25:743][137]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.09-21.54.26:091][140]LogSavePackage: Moving '../../../../../../Users/smithn10/Desktop/My Stuff/Unreal Projects/FPS 2-21-19/FPS-2-21-19/Shooter/Saved/AK5FD8B3C54E9AB4A0B483DC9D50FB0B94.tmp' to '../../../../../../Users/smithn10/Desktop/My Stuff/Unreal Projects/FPS 2-21-19/FPS-2-21-19/Shooter/Content/MyFolder/Weapons/AK47/AK.uasset'
+[2019.03.09-21.55.19:712][775]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.09-21.55.19:816][778]LogSlate: Window 'AK' being destroyed
+[2019.03.09-21.55.44:140][324]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.03.09-21.56.16:601][ 75]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.03.09-21.56.41:514][460]LogMetaData: Removing '/Game/MyFolder/Weapons/WeaponBase_Blueprint.WeaponBase_Blueprint:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/MyFolder/Weapons/Weapon_Base.PackageMetaData'
+[2019.03.09-21.56.41:514][460]LogMetaData: Removing '/Game/MyFolder/Weapons/WeaponBase_Blueprint.SKEL_WeaponBase_Blueprint_C' ref from Metadata '/Game/MyFolder/Weapons/Weapon_Base.PackageMetaData'
+[2019.03.09-21.56.41:514][460]LogMetaData: Removing '/Game/MyFolder/Weapons/WeaponBase_Blueprint.WeaponBase_Blueprint_C' ref from Metadata '/Game/MyFolder/Weapons/Weapon_Base.PackageMetaData'
+[2019.03.09-21.56.41:514][460]LogMetaData: Removing '/Game/MyFolder/Weapons/WeaponBase_Blueprint.WeaponBase_Blueprint:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MyFolder/Weapons/Weapon_Base.PackageMetaData'
+[2019.03.09-21.56.41:514][460]LogMetaData: Removing '/Game/MyFolder/Weapons/WeaponBase_Blueprint.WeaponBase_Blueprint:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MyFolder/Weapons/Weapon_Base.PackageMetaData'
+[2019.03.09-21.56.41:514][460]LogMetaData: Removing '/Game/MyFolder/Weapons/WeaponBase_Blueprint.WeaponBase_Blueprint:EventGraph.K2Node_Event_2' ref from Metadata '/Game/MyFolder/Weapons/Weapon_Base.PackageMetaData'
+[2019.03.09-21.56.41:664][460]LogSavePackage: Moving '../../../../../../Users/smithn10/Desktop/My Stuff/Unreal Projects/FPS 2-21-19/FPS-2-21-19/Shooter/Saved/WeaponBase_Blueprint46AEF66D4B23D8136376B39AB00755F7.tmp' to '../../../../../../Users/smithn10/Desktop/My Stuff/Unreal Projects/FPS 2-21-19/FPS-2-21-19/Shooter/Content/MyFolder/Weapons/WeaponBase_Blueprint.uasset'
+[2019.03.09-21.56.51:145][790]LogSlate: Window 'Delete Assets' being destroyed
+[2019.03.09-21.59.00:199][929]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.100
+[2019.03.09-21.59.00:207][929]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyFolder/Weapons/AK47/AK47_Material] ([1] browsable assets)...
+[2019.03.09-21.59.00:207][929]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyFolder/Weapons/AK47/AK47_Material]
+[2019.03.09-21.59.00:287][929]LogSavePackage: Moving '../../../../../../Users/smithn10/Desktop/My Stuff/Unreal Projects/FPS 2-21-19/FPS-2-21-19/Shooter/Saved/AK47_Material_Auto31B2E3B0A4B2FF0EBC4D78DB2420C4DCD.tmp' to '../../../../../../Users/smithn10/Desktop/My Stuff/Unreal Projects/FPS 2-21-19/FPS-2-21-19/Shooter/Saved/Autosaves/Game/MyFolder/Weapons/AK47/AK47_Material_Auto3.uasset'
+[2019.03.09-21.59.00:300][929]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyFolder/Weapons/AK47/AK_Skeleton] ([1] browsable assets)...
+[2019.03.09-21.59.00:300][929]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyFolder/Weapons/AK47/AK_Skeleton]
+[2019.03.09-21.59.00:331][929]LogSavePackage: Moving '../../../../../../Users/smithn10/Desktop/My Stuff/Unreal Projects/FPS 2-21-19/FPS-2-21-19/Shooter/Saved/AK_Skeleton_Auto3C58070DE403E474E214D3B93F0680EF7.tmp' to '../../../../../../Users/smithn10/Desktop/My Stuff/Unreal Projects/FPS 2-21-19/FPS-2-21-19/Shooter/Saved/Autosaves/Game/MyFolder/Weapons/AK47/AK_Skeleton_Auto3.uasset'
+[2019.03.09-21.59.00:342][929]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyFolder/Weapons/AK47/AK_PhysicsAsset] ([1] browsable assets)...
+[2019.03.09-21.59.00:377][929]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/MyFolder/Weapons/AK47/AK_PhysicsAsset.AK_PhysicsAsset]
+[2019.03.09-21.59.00:377][929]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyFolder/Weapons/AK47/AK_PhysicsAsset]
+[2019.03.09-21.59.00:448][929]LogSavePackage: Moving '../../../../../../Users/smithn10/Desktop/My Stuff/Unreal Projects/FPS 2-21-19/FPS-2-21-19/Shooter/Saved/AK_PhysicsAsset_Auto37FC35C8F4E9916B12873FA94072180C5.tmp' to '../../../../../../Users/smithn10/Desktop/My Stuff/Unreal Projects/FPS 2-21-19/FPS-2-21-19/Shooter/Saved/Autosaves/Game/MyFolder/Weapons/AK47/AK_PhysicsAsset_Auto3.uasset'
+[2019.03.09-21.59.00:462][929]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyFolder/Weapons/AK47/AK_diffuse] ([1] browsable assets)...
+[2019.03.09-21.59.00:488][929]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MyFolder/Weapons/AK47/AK_diffuse.AK_diffuse]
+[2019.03.09-21.59.00:488][929]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyFolder/Weapons/AK47/AK_diffuse]
+[2019.03.09-21.59.00:561][929]LogSavePackage: Moving '../../../../../../Users/smithn10/Desktop/My Stuff/Unreal Projects/FPS 2-21-19/FPS-2-21-19/Shooter/Saved/AK_diffuse_Auto3CB657B894BC2C425F2540493E1D20631.tmp' to '../../../../../../Users/smithn10/Desktop/My Stuff/Unreal Projects/FPS 2-21-19/FPS-2-21-19/Shooter/Saved/Autosaves/Game/MyFolder/Weapons/AK47/AK_diffuse_Auto3.uasset'
+[2019.03.09-21.59.00:572][929]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyFolder/Weapons/AK47/AK_normal] ([1] browsable assets)...
+[2019.03.09-21.59.00:600][929]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MyFolder/Weapons/AK47/AK_normal.AK_normal]
+[2019.03.09-21.59.00:600][929]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyFolder/Weapons/AK47/AK_normal]
+[2019.03.09-21.59.00:958][929]LogSavePackage: Moving '../../../../../../Users/smithn10/Desktop/My Stuff/Unreal Projects/FPS 2-21-19/FPS-2-21-19/Shooter/Saved/AK_normal_Auto33DA1E985461931A38E020DBE3A4D012B.tmp' to '../../../../../../Users/smithn10/Desktop/My Stuff/Unreal Projects/FPS 2-21-19/FPS-2-21-19/Shooter/Saved/Autosaves/Game/MyFolder/Weapons/AK47/AK_normal_Auto3.uasset'
+[2019.03.09-21.59.00:971][929]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyFolder/Weapons/AK47/AK_specular] ([1] browsable assets)...
+[2019.03.09-21.59.00:997][929]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MyFolder/Weapons/AK47/AK_specular.AK_specular]
+[2019.03.09-21.59.00:997][929]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyFolder/Weapons/AK47/AK_specular]
+[2019.03.09-21.59.01:057][929]LogSavePackage: Moving '../../../../../../Users/smithn10/Desktop/My Stuff/Unreal Projects/FPS 2-21-19/FPS-2-21-19/Shooter/Saved/AK_specular_Auto3480BB2344ACD5E314B18C7A20C73192C.tmp' to '../../../../../../Users/smithn10/Desktop/My Stuff/Unreal Projects/FPS 2-21-19/FPS-2-21-19/Shooter/Saved/Autosaves/Game/MyFolder/Weapons/AK47/AK_specular_Auto3.uasset'
+[2019.03.09-21.59.01:067][929]LogFileHelpers: Auto-saving content packages took 0.866
+[2019.03.10-01.04.53:046][972]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.03.10-02.47.59:094][232]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.03.10-03.02.58:113][884]LogInit: XAudio2 using 'AAA (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.10-04.24.18:857][412]LogHttp: Warning: 000002061A696D40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.10-04.24.18:857][412]LogHttp: Warning: 000002061A696D40: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x206655c7fa0 [serially])
+[2019.03.10-04.24.18:857][412]LogHttp: Warning: 000002061A696D40: libcurl info message cache 1 (Hostname in DNS cache was stale, zapped)
+[2019.03.10-04.24.18:858][412]LogHttp: Warning: 000002061A696D40: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.10-04.24.18:858][412]LogHttp: Warning: 000002061A696D40: libcurl info message cache 3 (Closing connection 245)
+[2019.03.10-04.25.12:630][571]LogHttp: Warning: 000002061A696FC0: request failed, libcurl error: 35 (SSL connect error)
+[2019.03.10-04.25.12:630][571]LogHttp: Warning: 000002061A696FC0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x206655c7fa0 [can pipeline])
+[2019.03.10-04.25.12:630][571]LogHttp: Warning: 000002061A696FC0: libcurl info message cache 1 (Re-using existing connection! (#243) with host datarouter.ol.epicgames.com)
+[2019.03.10-04.25.12:630][571]LogHttp: Warning: 000002061A696FC0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.88.130.39) port 443 (#243))
+[2019.03.10-04.25.12:630][571]LogHttp: Warning: 000002061A696FC0: libcurl info message cache 3 (upload completely sent off: 768 out of 768 bytes)
+[2019.03.10-04.25.12:630][571]LogHttp: Warning: 000002061A696FC0: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.03.10-04.25.12:631][571]LogHttp: Warning: 000002061A696FC0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.03.10-04.25.12:631][571]LogHttp: Warning: 000002061A696FC0: libcurl info message cache 6 (Closing connection 243)
+[2019.03.10-04.25.12:631][571]LogHttp: Warning: 000002061A696FC0: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.03.10-04.25.12:631][571]LogHttp: Warning: 000002061A696FC0: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE212065D-48C5-2B5A-DCEA-5EA7FF1610DE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=0969e2064cce2508062d3e976af69c7a%7C963b121ea5204dd584ea0974b1c7915a%7Ca0396c56-fccb-4001-b1bc-9e7ff8e65cad&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2019.03.10-04.25.12:631][571]LogHttp: Warning: 000002061A696FC0: libcurl info message cache 9 (  Trying 52.1.48.131...)
+[2019.03.10-04.25.12:632][571]LogHttp: Warning: 000002061A696FC0: libcurl info message cache 10 (TCP_NODELAY set)
+[2019.03.10-04.25.12:632][571]LogHttp: Warning: 000002061A696FC0: libcurl info message cache 11 (Connected to datarouter.ol.epicgames.com (52.1.48.131) port 443 (#244))
+[2019.03.10-04.25.12:632][571]LogHttp: Warning: 000002061A696FC0: libcurl info message cache 12 (ALPN, offering http/1.1)
+[2019.03.10-04.25.12:632][571]LogHttp: Warning: 000002061A696FC0: libcurl info message cache 13 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2019.03.10-04.25.12:632][571]LogHttp: Warning: 000002061A696FC0: libcurl info message cache 14 (SSL re-using session ID)
+[2019.03.10-04.25.12:632][571]LogHttp: Warning: 000002061A696FC0: libcurl info message cache 15 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2019.03.10-04.25.12:632][571]LogHttp: Warning: 000002061A696FC0: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server hello (2):)
+[2019.03.10-04.25.12:632][571]LogHttp: Warning: 000002061A696FC0: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2019.03.10-04.25.12:633][571]LogHttp: Warning: 000002061A696FC0: libcurl info message cache 18 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2019.03.10-04.25.12:633][571]LogHttp: Warning: 000002061A696FC0: libcurl info message cache 19 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2019.03.10-04.25.12:633][571]LogHttp: Warning: 000002061A696FC0: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2019.03.10-04.25.12:633][571]LogHttp: Warning: 000002061A696FC0: libcurl info message cache 21 (TLSv1.2 (OUT), TLS change cipher, Client hello (1):)
+[2019.03.10-04.25.12:633][571]LogHttp: Warning: 000002061A696FC0: libcurl info message cache 22 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2019.03.10-04.25.12:634][571]LogHttp: Warning: 000002061A696FC0: libcurl info message cache 23 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2019.03.10-04.25.12:634][571]LogHttp: Warning: 000002061A696FC0: libcurl info message cache 24 (Closing connection 244)
+[2019.03.10-05.30.38:038][253]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{64f13b5b-4446-4d2b-8b19-ecc774ef7e7d} was removed. Shutting down audio device.
+[2019.03.10-05.30.38:038][253]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.10-08.30.48:718][273]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2019.03.10-08.30.49:265][275]LogHttp: Warning: 000002061A697100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.10-08.30.49:265][275]LogHttp: Warning: 000002061A697100: libcurl info message cache 0 (Connection 280 seems to be dead!)
+[2019.03.10-08.30.49:266][275]LogHttp: Warning: 000002061A697100: libcurl info message cache 1 (Closing connection 280)
+[2019.03.10-08.30.49:266][275]LogHttp: Warning: 000002061A697100: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.10-08.30.49:266][275]LogHttp: Warning: 000002061A697100: libcurl info message cache 3 (Closing connection 281)
+[2019.03.10-16.11.04:732][287]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2019.03.10-16.11.05:366][289]LogHttp: Warning: 000002061A697100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.10-16.11.05:367][289]LogHttp: Warning: 000002061A697100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.10-16.11.05:367][289]LogHttp: Warning: 000002061A697100: libcurl info message cache 1 (Closing connection 282)
+[2019.03.10-16.52.42:996][726]LogInit: XAudio2 using 'AAA (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.10-19.29.22:496][720]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{64f13b5b-4446-4d2b-8b19-ecc774ef7e7d} was removed. Shutting down audio device.
+[2019.03.10-19.29.22:496][720]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.10-19.56.32:266][551]LogInit: XAudio2 using 'AAA (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.11-01.06.26:203][912]LogHttp: Warning: 000002061A6942C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.11-01.06.26:204][912]LogHttp: Warning: 000002061A6942C0: libcurl info message cache 0 (Connection 572 seems to be dead!)
+[2019.03.11-01.06.26:204][912]LogHttp: Warning: 000002061A6942C0: libcurl info message cache 1 (Closing connection 572)
+[2019.03.11-01.06.26:204][912]LogHttp: Warning: 000002061A6942C0: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.11-01.06.26:204][912]LogHttp: Warning: 000002061A6942C0: libcurl info message cache 3 (Closing connection 573)
+[2019.03.11-01.23.47:553][  1]LogHttp: Warning: 000002061A6942C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.11-01.23.47:553][  1]LogHttp: Warning: 000002061A6942C0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x206655c7fa0 [can pipeline])
+[2019.03.11-01.23.47:554][  1]LogHttp: Warning: 000002061A6942C0: libcurl info message cache 1 (Re-using existing connection! (#582) with host datarouter.ol.epicgames.com)
+[2019.03.11-01.23.47:554][  1]LogHttp: Warning: 000002061A6942C0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.236.214.14) port 443 (#582))
+[2019.03.11-01.23.47:554][  1]LogHttp: Warning: 000002061A6942C0: libcurl info message cache 3 (upload completely sent off: 390 out of 390 bytes)
+[2019.03.11-01.23.47:554][  1]LogHttp: Warning: 000002061A6942C0: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2019.03.11-01.23.47:554][  1]LogHttp: Warning: 000002061A6942C0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.03.11-01.23.47:554][  1]LogHttp: Warning: 000002061A6942C0: libcurl info message cache 6 (Closing connection 582)
+[2019.03.11-01.23.47:554][  1]LogHttp: Warning: 000002061A6942C0: libcurl info message cache 7 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE212065D-48C5-2B5A-DCEA-5EA7FF1610DE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=0969e2064cce2508062d3e976af69c7a%7C963b121ea5204dd584ea0974b1c7915a%7Ca0396c56-fccb-4001-b1bc-9e7ff8e65cad&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2019.03.11-01.23.47:554][  1]LogHttp: Warning: 000002061A6942C0: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.11-01.23.47:554][  1]LogHttp: Warning: 000002061A6942C0: libcurl info message cache 9 (Closing connection 583)
+[2019.03.11-01.41.26:103][144]LogHttp: Warning: 0000020615E5CA40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.11-01.41.26:103][144]LogHttp: Warning: 0000020615E5CA40: libcurl info message cache 0 (Connection 593 seems to be dead!)
+[2019.03.11-01.41.26:103][144]LogHttp: Warning: 0000020615E5CA40: libcurl info message cache 1 (Closing connection 593)
+[2019.03.11-01.41.26:103][144]LogHttp: Warning: 0000020615E5CA40: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.03.11-01.41.26:104][144]LogHttp: Warning: 0000020615E5CA40: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.11-01.41.26:104][144]LogHttp: Warning: 0000020615E5CA40: libcurl info message cache 4 (Closing connection 594)
+[2019.03.11-03.03.19:760][773]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{64f13b5b-4446-4d2b-8b19-ecc774ef7e7d} was removed. Shutting down audio device.
+[2019.03.11-03.03.19:761][773]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.11-06.03.47:879][853]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2019.03.11-06.03.48:225][855]LogHttp: Warning: 0000020615E5CA40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.11-06.03.48:225][855]LogHttp: Warning: 0000020615E5CA40: libcurl info message cache 0 (Connection 637 seems to be dead!)
+[2019.03.11-06.03.48:225][855]LogHttp: Warning: 0000020615E5CA40: libcurl info message cache 1 (Closing connection 637)
+[2019.03.11-06.03.48:225][855]LogHttp: Warning: 0000020615E5CA40: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.11-06.03.48:225][855]LogHttp: Warning: 0000020615E5CA40: libcurl info message cache 3 (Closing connection 638)
+[2019.03.11-21.21.34:868][875]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2019.03.11-21.21.36:672][878]LogHttp: Warning: 0000020615E5CA40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.11-21.21.36:672][878]LogHttp: Warning: 0000020615E5CA40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.11-21.21.36:673][878]LogHttp: Warning: 0000020615E5CA40: libcurl info message cache 1 (Closing connection 639)
+[2019.03.11-22.38.42:094][736]LogHttp: Warning: 0000020615E5CA40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.11-22.38.42:094][736]LogHttp: Warning: 0000020615E5CA40: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x206655c7fa0 [can pipeline])
+[2019.03.11-22.38.42:094][736]LogHttp: Warning: 0000020615E5CA40: libcurl info message cache 1 (Re-using existing connection! (#677) with host datarouter.ol.epicgames.com)
+[2019.03.11-22.38.42:094][736]LogHttp: Warning: 0000020615E5CA40: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.174.44.138) port 443 (#677))
+[2019.03.11-22.38.42:095][736]LogHttp: Warning: 0000020615E5CA40: libcurl info message cache 3 (upload completely sent off: 393 out of 393 bytes)
+[2019.03.11-22.38.42:095][736]LogHttp: Warning: 0000020615E5CA40: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2019.03.11-22.38.42:095][736]LogHttp: Warning: 0000020615E5CA40: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.03.11-22.38.42:095][736]LogHttp: Warning: 0000020615E5CA40: libcurl info message cache 6 (Closing connection 677)
+[2019.03.11-22.38.42:096][736]LogHttp: Warning: 0000020615E5CA40: libcurl info message cache 7 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE212065D-48C5-2B5A-DCEA-5EA7FF1610DE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=0969e2064cce2508062d3e976af69c7a%7C963b121ea5204dd584ea0974b1c7915a%7Ca0396c56-fccb-4001-b1bc-9e7ff8e65cad&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2019.03.11-22.38.42:096][736]LogHttp: Warning: 0000020615E5CA40: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.11-22.38.42:096][736]LogHttp: Warning: 0000020615E5CA40: libcurl info message cache 9 (Closing connection 678)
+[2019.03.12-01.26.50:717][805]LogHttp: Warning: 0000020615E5CA40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.12-01.26.50:718][805]LogHttp: Warning: 0000020615E5CA40: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x206655c7fa0 [can pipeline])
+[2019.03.12-01.26.50:719][805]LogHttp: Warning: 0000020615E5CA40: libcurl info message cache 1 (Re-using existing connection! (#766) with host datarouter.ol.epicgames.com)
+[2019.03.12-01.26.50:719][805]LogHttp: Warning: 0000020615E5CA40: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (18.232.220.76) port 443 (#766))
+[2019.03.12-01.26.50:719][805]LogHttp: Warning: 0000020615E5CA40: libcurl info message cache 3 (upload completely sent off: 774 out of 774 bytes)
+[2019.03.12-01.26.50:719][805]LogHttp: Warning: 0000020615E5CA40: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2019.03.12-01.26.50:719][805]LogHttp: Warning: 0000020615E5CA40: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.03.12-01.26.50:719][805]LogHttp: Warning: 0000020615E5CA40: libcurl info message cache 6 (Closing connection 766)
+[2019.03.12-01.26.50:719][805]LogHttp: Warning: 0000020615E5CA40: libcurl info message cache 7 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE212065D-48C5-2B5A-DCEA-5EA7FF1610DE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=0969e2064cce2508062d3e976af69c7a%7C963b121ea5204dd584ea0974b1c7915a%7Ca0396c56-fccb-4001-b1bc-9e7ff8e65cad&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2019.03.12-01.26.50:720][805]LogHttp: Warning: 0000020615E5CA40: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.12-01.26.50:720][805]LogHttp: Warning: 0000020615E5CA40: libcurl info message cache 9 (Closing connection 767)
+[2019.03.12-01.41.42:376][470]LogHttp: Warning: 0000020615E5CA40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.12-01.41.42:376][470]LogHttp: Warning: 0000020615E5CA40: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x206655c7fa0 [can pipeline])
+[2019.03.12-01.41.42:376][470]LogHttp: Warning: 0000020615E5CA40: libcurl info message cache 1 (Re-using existing connection! (#774) with host datarouter.ol.epicgames.com)
+[2019.03.12-01.41.42:377][470]LogHttp: Warning: 0000020615E5CA40: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.71.135.85) port 443 (#774))
+[2019.03.12-01.41.42:377][470]LogHttp: Warning: 0000020615E5CA40: libcurl info message cache 3 (upload completely sent off: 393 out of 393 bytes)
+[2019.03.12-01.41.42:377][470]LogHttp: Warning: 0000020615E5CA40: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2019.03.12-01.41.42:377][470]LogHttp: Warning: 0000020615E5CA40: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.03.12-01.41.42:377][470]LogHttp: Warning: 0000020615E5CA40: libcurl info message cache 6 (Closing connection 774)
+[2019.03.12-01.41.42:377][470]LogHttp: Warning: 0000020615E5CA40: libcurl info message cache 7 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE212065D-48C5-2B5A-DCEA-5EA7FF1610DE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=0969e2064cce2508062d3e976af69c7a%7C963b121ea5204dd584ea0974b1c7915a%7Ca0396c56-fccb-4001-b1bc-9e7ff8e65cad&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2019.03.12-01.41.42:377][470]LogHttp: Warning: 0000020615E5CA40: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.12-01.41.42:377][470]LogHttp: Warning: 0000020615E5CA40: libcurl info message cache 9 (Closing connection 775)
+[2019.03.12-07.39.45:093][692]LogInit: XAudio2 using 'AAA (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.12-08.08.53:678][918]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{64f13b5b-4446-4d2b-8b19-ecc774ef7e7d} was removed. Shutting down audio device.
+[2019.03.12-08.08.53:678][918]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.12-11.09.33:706][ 38]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2019.03.12-11.09.34:052][ 40]LogHttp: Warning: 0000020615E5C180: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.12-11.09.34:052][ 40]LogHttp: Warning: 0000020615E5C180: libcurl info message cache 0 (Connection 973 seems to be dead!)
+[2019.03.12-11.09.34:052][ 40]LogHttp: Warning: 0000020615E5C180: libcurl info message cache 1 (Closing connection 973)
+[2019.03.12-11.09.34:052][ 40]LogHttp: Warning: 0000020615E5C180: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.12-11.09.34:053][ 40]LogHttp: Warning: 0000020615E5C180: libcurl info message cache 3 (Closing connection 974)
+[2019.03.12-15.30.20:832][ 68]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2019.03.12-15.30.21:906][ 70]LogHttp: Warning: 0000020615E5E480: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.12-15.30.21:907][ 70]LogHttp: Warning: 0000020615E5E480: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.12-15.30.21:907][ 70]LogHttp: Warning: 0000020615E5E480: libcurl info message cache 1 (Closing connection 975)
+[2019.03.12-17.47.27:272][936]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2019.03.12-17.47.46:751][994]LogHttp: Warning: 0000020615E5E480: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.12-17.47.46:751][994]LogHttp: Warning: 0000020615E5E480: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x206655c7fa0 [can pipeline])
+[2019.03.12-17.47.46:751][994]LogHttp: Warning: 0000020615E5E480: libcurl info message cache 1 (Re-using existing connection! (#1040) with host datarouter.ol.epicgames.com)
+[2019.03.12-17.47.46:751][994]LogHttp: Warning: 0000020615E5E480: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.54.243.91) port 443 (#1040))
+[2019.03.12-17.47.46:753][994]LogHttp: Warning: 0000020615E5E480: libcurl info message cache 3 (upload completely sent off: 7992 out of 7992 bytes)
+[2019.03.12-17.47.46:753][994]LogHttp: Warning: 0000020615E5E480: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2019.03.12-17.47.46:753][994]LogHttp: Warning: 0000020615E5E480: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.03.12-17.47.46:753][994]LogHttp: Warning: 0000020615E5E480: libcurl info message cache 6 (Closing connection 1040)
+[2019.03.12-17.47.46:753][994]LogHttp: Warning: 0000020615E5E480: libcurl info message cache 7 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE212065D-48C5-2B5A-DCEA-5EA7FF1610DE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=0969e2064cce2508062d3e976af69c7a%7C963b121ea5204dd584ea0974b1c7915a%7Ca0396c56-fccb-4001-b1bc-9e7ff8e65cad&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2019.03.12-17.47.46:753][994]LogHttp: Warning: 0000020615E5E480: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.12-17.47.46:753][994]LogHttp: Warning: 0000020615E5E480: libcurl info message cache 9 (Closing connection 1041)
+[2019.03.12-18.21.19:341][985]LogInit: XAudio2 using 'SONY PJ (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.12-19.03.33:670][526]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{4551e232-f688-4068-9735-a63a7d52f21b} was removed. Shutting down audio device.
+[2019.03.12-19.03.33:670][526]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.12-21.58.32:286][326]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2019.03.12-21.58.32:733][328]LogHttp: Warning: 00000206815B4F40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.12-21.58.32:733][328]LogHttp: Warning: 00000206815B4F40: libcurl info message cache 0 (Connection 1172 seems to be dead!)
+[2019.03.12-21.58.32:734][328]LogHttp: Warning: 00000206815B4F40: libcurl info message cache 1 (Closing connection 1172)
+[2019.03.12-21.58.32:734][328]LogHttp: Warning: 00000206815B4F40: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.12-21.58.32:734][328]LogHttp: Warning: 00000206815B4F40: libcurl info message cache 3 (Closing connection 1173)
+[2019.03.12-22.21.04:356][348]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2019.03.12-22.21.04:704][350]LogHttp: Warning: 00000206815B4180: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.12-22.21.04:704][350]LogHttp: Warning: 00000206815B4180: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.12-22.21.04:704][350]LogHttp: Warning: 00000206815B4180: libcurl info message cache 1 (Closing connection 1174)
+[2019.03.12-23.24.52:890][729]LogInit: XAudio2 using 'AAA (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.12-23.30.09:698][672]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{64f13b5b-4446-4d2b-8b19-ecc774ef7e7d} was removed. Shutting down audio device.
+[2019.03.12-23.30.09:698][672]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.12-23.55.30:548][700]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
